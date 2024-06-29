@@ -13,7 +13,7 @@ LearnFlow is a full-stack web application using the MERN stack and OAuth 2.0 for
 
 ## Demo
 ### Home Page
-![Home Page](./public/img/imgrun/Screenshot%202024-06-29%20185309.png)
+![Home Page](./public/img/imgrun/Screenshot%202024-06-29%20182309.png)
 
 ### Role
 ![Role](./public/img/imgrun/Screenshot%202024-06-29%20183859.png)
